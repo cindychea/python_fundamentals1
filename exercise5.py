@@ -1,4 +1,5 @@
 # Create initial while loop
+# Add go home (added as quit)
 distance_from_home = 0
 while True:
     print("Would you like to walk or run?")
